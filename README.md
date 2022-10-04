@@ -1,10 +1,29 @@
-# Getting Started with Create React App
+## Functionality
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the project, There are four filters and one search button.
+
+Each property is shown on a card with their features.
+
+The website is fully responsive.
+
+## Search
+
+You can type in the text box the name of the property to find it on the App.
+
+## Filters
+
+1. Type : Filters the data on the basis of type of the property.
+2. Date : It shows the availabity from the move in date of customer. It shows all the properties available after the date.
+3. Price-Range: It provides the user to access properties on the basis of their affordability.
+4. Country: It shows all the properties available in your location (country).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+## `npm install`
+
+Installs all the dependencies required to run the app.
 
 ### `npm start`
 
